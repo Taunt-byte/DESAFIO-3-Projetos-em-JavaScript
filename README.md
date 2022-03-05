@@ -16,7 +16,7 @@ Tabela de conteúdos
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
    * [Tecnologias](#tecnologias)
-   * [Referencia](#Referencia)
+   * [Referencia](#Bonieky)
 <!--te-->
 
 
@@ -41,15 +41,20 @@ Tabela de conteúdos
 
 ## Instalação
 
--
+Para instalar esse repositorio basta digitar:
+
+  git clone https://github.com/Taunt-byte/DESAFIO-3-Projetos-em-JavaScript.git
+
+<i>Lembre se de escolher uma pasta para salva-lo</i>
 
 ## Como usar
 
--
+Basta abrir esse repositorio na IDE de sua escolha que você ja podera usa-lo da forma que achar melhor.
 
 ## Pre Requisitos
 
--
+1) Para instalar esse repositorio o git sera necessario.
+2) Recomendo que se tenha uma boa IDE para utilizar esse repositorio por isso recomendo o VScode.
 
 ## Tecnologias
 
@@ -66,6 +71,10 @@ Tabela de conteúdos
     </tr>
 </table>
 
-## Referencia
+## Bonieky
 
-https://www.youtube.com/watch?v=hF_VMWnsY00&list=PLGBXQpt0YO1c1qcaFQEnCw9H1JktEyb-S&index=36&ab_channel=BoniekyLacerda
+Como eu disse mais a cima esse codigo foi feito seguindo um tutorial no youtube por isso nada mais justo que deixa-lo aqui um link que vai direto para o video em questão.
+
+  https://www.youtube.com/watch?v=hF_VMWnsY00&list=PLGBXQpt0YO1c1qcaFQEnCw9H1JktEyb-S&index=36&ab_channel=BoniekyLacerda
+
+<i>De resto é isso até a proxima !!</i>
