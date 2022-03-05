@@ -26,13 +26,18 @@ Tabela de conteúdos
 
 ## Sobre
 
-É um repositorio com 3 projetos feitos em JS realizados no mes 10 de 2021 com o objetivo de treinar o uso do JavaScript
++ É um repositorio com 3 projetos feitos em JavaScript realizados no mes 10 de 2021 com o objetivo de treinar o uso do mesmo.
+
++ Todos os codigos aqui foram feitos seguindo o passo a passo do Bonieky Lacerda em sua live no youtube.
+
++ Cada projeto corresponde a uma aplicação diferente sendo elas a primeira um formulario a segunda um SlideShow e a terceira uma urna eletronica.
+
 
 ## Tabela de conteudo
 
-- [ ] Urna Eletronica
-- [ ] Slideshow
-- [x] Formulario
+- [X] Urna Eletronica
+- [X] Slideshow
+- [X] Formulario
 
 ## Instalação
 
